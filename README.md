@@ -97,8 +97,6 @@ Need a bypass for a **specific version**, a **different architecture**, or an **
 | Messenger | Patched APK | [**Messenger SSL Pinning Bypass**](https://github.com/0xSHAK1B/Messenger-SSL-Pinning-Bypass) |
 | Threads | Patched APK | [**Threads SSL Pinning Bypass**](https://github.com/0xSHAK1B/Threads-SSL-Pinning-Bypass) |
 | Meta Business Suite | Patched APK | [**Meta Business Suite SSL Pinning Bypass**](https://github.com/0xSHAK1B/MetaBusiness-Suite-SSL-Pinning-Bypass) |
-| Edits | Patched APK | [**Edits SSL Pinning Bypass**](https://github.com/0xSHAK1B/Edits-SSL-Pinning-Bypass) |
-| Instants | Patched APK | [**Instants SSL Pinning Bypass**](https://github.com/0xSHAK1B/Instants-SSL-Pinning-Bypass) |
 | TikTok | Patched APK | [**TikTok SSL Pinning Bypass**](https://github.com/0xSHAK1B/TikTok-SSL-Pinning-Bypass) |
 | Snapchat | Patched APK | [**Snapchat SSL Pinning Bypass**](https://github.com/0xSHAK1B/Snapchat-SSL-Pinning-Bypass) |
 
