@@ -1,0 +1,33 @@
+curl -X POST 'https://acs.aliexpress.com/gw/mtop.aliexpress.account.login.nextprocedureaction.get/1.0/' \
+  -H 'x-shipto: UK' \
+  -H 'x-sgext: JBNoigd%2BZXHBXCBXFIXBBopZulu%2FXKlevFu8S75YqUu7X7Jcu1%2B6WL5ZqVi4WOlYuli6Dr8N7Ay5CbxLuku%2BS7pYqVi6WLpLuku7S7tLu0u7S7tLu0u7S7lLu0u6S7pLuku6S7pLuku6S6kNqVipWKkOvQzpWLpLuli6WLpLuku4DOtLukupW6lRqVupW6kS5iq8S7pLqkiqWKpIuF2pUdVZp1inN%2Bs3uE6%2BTr9f1QrVWbpep1mnWKdZp17VDNU93CbYPrsm2D27Lbc37De5RbpFu1%2BnWr9Fu1u4N7tY1UzyB7kv0CXgPMIJ8l7LKt8MyAPPMccP4wzlR8E94wf%2BBftZxwO7Gdgl3DHjKdg52gHpXcIr0BLgJscj0x%2B%2BCf0myFzEJcIgzFjAL%2BEyxCLeIs8p7F%2FzOc0npSHhCcgQ7yzTHdgRzibTPv0i0z79Ick57yG8KsspyyChKcsp7y%2FcPMQ5yze7WtVZp16nWNVZuTfLD8spyynLKcspyynLKcspyynLKcspyynLKcsp1Vm8N7o3u1%2FVWadYp1GnWKdYp1inWKdYp1inWNVZ6De5Xadcuze7C9VavU66TrtOuFisWrpOuFisRbtYvk6nWqxQsk64WNVZ7je4UaxZ1VnvN7lFuTe4WNVYp16%2BN7hZ1VjVWrk3uF%2BsWKRYuFq%2FTr5OuU65TrlfrFq4TrharFisWdVavje7RbpFukW7RbtFukW6RbtFuEW7Nw%3D%3D' \
+  -H 'x-sign: az7WTj002xAAIwun9ZsKLD7kOFs5IwujBwCuJabutN8p4FuX%2Ffe4ZKdEO7r9L0g2lBxhxPjl7%2B3o4Q%2BvWPJPr1IfXTMLswujC7MLow' \
+  -H 'x-pv: 6.3' \
+  -H 'x-reqbiz-ext: vv%3D35%7C80005924%7Cwifi%7Cacs.aliexpress.com%7C1%7C3%2Cp%3DMyAE%2Cscenario%3DMyAE%2Cglobal_abtest%3D%257B%2522st_502320%2522%253A%25223504%2522%252C%2522st_508990%2522%253A%25222106%2522%252C%2522st_509376%2522%253A%25225427%2522%252C%2522st_509630%2522%253A%25224972%2522%252C%2522st_511811%2522%253A%25225561%2522%252C%2522st_515521%2522%253A%25225719%2522%252C%2522st_516403%2522%253A%25225044%2522%252C%2522st_516468%2522%253A%25225835%2522%252C%2522st_516520%2522%253A%25225561%2522%252C%2522st_516559%2522%253A%25225561%2522%252C%2522st_516702%2522%253A%25225900%2522%252C%2522st_517011%2522%253A%25225969%2522%257D%2Cdid%3Dalg6yEQX1nwDAOKNaYjOgV1M%2Cdm%3DA001%2Cmwua%3DaRgQHuIpwyIg6cm4%2Fbtg4elFRBBEx2xch%2FsEpVP6XWfR8dWSJSdahsLBacHazKBw%2BnU2X%2B3HYejJ25ogluAhLL0OaRj6WpSHq8qEXs5praUtUuznW7jVCuTukshkTHxzl2r9HQ0ByP6vEt7Io12NmGMyoIgscnAPJNr24eCTYjdnvkRVrFXQVaAyED6TvEiuokX8%3D%2Crts%3D6QJfERaa%7C1133%7C200' \
+  -H 'x-features: 27' \
+  -H 'x-app-conf-v: 0' \
+  -H 'x-mini-wua: aJwQNGwN9TOb%2BGbuM7TehgjBssLe%2BwXOM7Ap8KzZkmxO7y%2FC3qyKuSO2q%2F4DHGgFJp2mZul0iVLn6IgYb8OWfZGfWFTU0XIiZcQilYhslg58%2FV%2BvD9V7uIYoMe8S%2BYG1TTswH3GaD2N%2Bvuw57TzZZnByppXW5za9P4JX7DGRkqqB4tkSyEc%2BeLg%2By1V6PyHGrRzg%3D' \
+  -H 'x-bext: ' \
+  -H 'content-type: application/x-www-form-urlencoded;charset=UTF-8' \
+  -H 'content-type: application/x-www-form-urlencoded;charset=UTF-8' \
+  -H 'x-t: 1784170076' \
+  -H 'cookie: domain=.aliexpress.com; xman_t=MMCyRt3qApImfm4aaLVf+qC468QHHFB6eAN6mNsFyqVcZrH7Xyper/kkJKhTq3j4; xman_us_f=x_locale=en_US&x_l=1; xman_f=qWxtLyVuroDbfGWmfOUXV1ApC9+jOs3ZM0nt6w6wKexgDrXe5DGmJho2zFqO0KD5WScUbgeGEYBc2VCjSmS59o4jMLqAM7hz0umV1StkEf6LbDzL0svRZQ==; acs_usuc_t=acs_rt=5d8eb4cd970b47269db221c6661e723a; aep_usuc_f=b_locale=en_US&region=UK&c_tp=GBP; intl_locale=en_US' \
+  -H 'x-bx-version: 6.7.250602' \
+  -H 'f-refer: mtop' \
+  -H 'x-extdata: openappkey%3DDEFAULT_AUTH' \
+  -H 'x-ttid: play_google-play%40Aliexpress_Android_8.168.3' \
+  -H 'x-app-ver: 8.168.3' \
+  -H 'x-c-traceid: null1784170076880004116636' \
+  -H 'p: MyAE' \
+  -H 'x-umt: JDUDT2VLPHrOcwGfaMQ5Wfv2pn80bkTu' \
+  -H 'a-orange-q: appKey=21371601&appVersion=8.168.3&clientAppIndexVersion=1120260715192520850&clientVersionIndexVersion=0' \
+  -H 'x-utdid: alg6yEQX1nwDAOKNaYjOgV1M' \
+  -H 'c-launch-info: 0,0,1784170076880,1784170040228,1' \
+  -H 'x-appkey: 21371601' \
+  -H 'x-falco-id: 419cc4b6b1bb414b8114748a4b4114a6' \
+  -H 'x-devid: alg6yEQX1nwDAOKNaYjOgV1M' \
+  -H 'user-agent: MTOPSDK%2F3.1.1.7+%28Android%3B15%3BNothing%3BA001%29' \
+  -H 'accept-encoding: gzip' \
+  -H 'content-length: 455'  \
+   --data 'data=%7B%22_lang%22%3A%22en_UK%22%2C%22_systemLang%22%3A%22en_GB%22%2C%22_currency%22%3A%22GBP%22%2C%22umidTokenType%22%3A%22SECURITY_TOKEN%22%2C%22passport%22%3A%22muhammadshakib%40gmail.com%22%2C%22_saasRegion%22%3A%22aeg%22%2C%22_isDarkMode%22%3A%220%22%2C%22appKey%22%3A%2213022%22%2C%22umidToken%22%3A%22JDUDT2VLPHrOcwGfaMQ5Wfv2pn80bkTu%22%2C%22locale%22%3A%22en_US%22%2C%22deviceId%22%3A%22alg6yEQX1nwDAOKNaYjOgV1M%22%2C%22platform%22%3A%22APP%22%7D' \
+  --compressed
